@@ -1,0 +1,7 @@
+India's postcode data is publicly available on the opendata website: 
+https://data.gov.in/resources/all-india-pincode-directory-contact-details-along-latitude-and-longitude
+First, I am going to select New Delhi's postcodes, and retrieve geolocation information about them using GeoPy 
+Then, I am going to query the locations in Foursquare to retrieve information on
+Hospitals (4bf58dd8d48988d196941735) These venue categories are available on Foursquare 
+Once I have list of locations, I can visualize them on a map by overlaying markers corresponding to each hospital.
+The result will allow visualization of distribution and density of different types of hospitals.
